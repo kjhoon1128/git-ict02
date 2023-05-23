@@ -71,4 +71,4 @@ asyncCall();
 > remote repository의 branch name이다.
 
 ## origin
-> remote repository이다. 
+> remote repository이다.
